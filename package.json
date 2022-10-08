@@ -1,0 +1,14 @@
+{
+  "name": "my-gridsome-blog",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "gridsome": "^0.7.23",
+    "gridsome-transformer-obsidian": "^0.0.8"
+  }
+}
